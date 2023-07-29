@@ -5,7 +5,7 @@
 
 - 🚀 I'm currently working on [GearHead HRMS Project](https://github.com/stonk-over-flown/Project_HRMS)
 
-- Frameworks that I'm experienced in **ASP.NET, .NET Core, NUnit, MSTest**
+- Frameworks that I'm experienced in **ASP.NET Core, NUnit, MSTest**
 
 - ✅ Finished Project: [Steam 2.0 Game Store](https://github.com/stonk-over-flown/Gaming-Store-Demo-)
 
