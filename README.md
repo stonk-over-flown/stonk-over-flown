@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stonk-over-flown&label=Profile%20views&color=0e75b6&style=flat" alt="stonk-over-flown" /> </p>
 
-- 🚀 I'm currently working on [GearHead HRMS Project](https://github.com/stonk-over-flown/Project_HRMS)
-
 - Frameworks that I'm experienced in **ASP.NET Core, NUnit, MSTest**
+
+- ✅ Finished Project: [GearHead HRMS Project](https://github.com/stonk-over-flown/Project_HRMS)
 
 - ✅ Finished Project: [Steam 2.0 Game Store](https://github.com/stonk-over-flown/Gaming-Store-Demo-)
 
