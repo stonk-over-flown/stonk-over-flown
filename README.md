@@ -5,11 +5,11 @@
 
 - ✅ Finished Project: [SCSnC - Smart Coworking Space and Coffee](https://github.com/stonk-over-flown/SCSnC-Backend)
 
-- 🌱 I’m currently learning **JavaScript, ReactJS and more**
-
 - ✅ Finished Project: [GearHead Human Resource Management System](https://github.com/stonk-over-flown/Project_HRMS)
 
 - ✅ Finished Project: [Electronic Store](https://github.com/hntduong12345/ElectronicStoreAPI)
+
+- 🌱 I’m currently learning **JavaScript, ReactJS and more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stonk-over-flown](https://github.com/stonk-over-flown)
 
